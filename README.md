@@ -4,7 +4,7 @@
 **Date:** 14 November 2026
 **Modules completed:** W2-PM1 (Footprinting with multiple Kali tools), W2-PM5 (Network scanning with Zenmap), W2-PM-FINAL (report)
 
-**Full report:** [Durgaprasad_Veesam_Week2_Report.docx](Durgaprasad_Veesam_Week2_Report.docx)
+**Full report:** [Durgaprasad_Veesam_Week2_Report.pdf](Durgaprasad_Veesam_Week2_Report.pdf)
 
 ## Liability Disclaimer
 I performed these activities only on networkwalks.com (the internship's training target) and on my own lab network. This is for education only. Unauthorised access is a crime.
